@@ -1,0 +1,6 @@
+{
+  "name": "Alliance Bug Hunter",
+  "description": "A multi-model AI vulnerability analyzer using the Alliance Consensus protocol (Gemini, DeepSeek, ChatGPT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
